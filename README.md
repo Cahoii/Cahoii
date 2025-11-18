@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cahoii&label=Profile%20views&color=0e75b6&style=flat" alt="cahoii" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cahoii" alt="cahoii" /></a> </p>
-
 - 📫 How to reach me **tangth023@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
