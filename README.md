@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cahoii&label=Profile%20views&color=0e75b6&style=flat" alt="cahoii" /> </p>
 
+- 🔭 I’m currently working on [fe-learning](https://github.com/Cahoii/fe-learning)
+
+- 🌱 I’m currently learning **React, NextJS**
+
+- 🤝 I’m looking for help with [HospitalManagement](https://github.com/Cahoii/HospitalManagement)
+
 - 📫 How to reach me **tangth023@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
