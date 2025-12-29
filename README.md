@@ -1,4 +1,5 @@
 # 💫 About Me:
+
 🔭 I’m currently working on Mochi-learning (a Japanese learning app)<br>🌱 I’m currently learning AI and LLM<br>
 
 ## 🌐 Socials:
