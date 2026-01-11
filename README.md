@@ -1,7 +1,7 @@
 # 💫 About Me:
  
 🔭 I’m currently working on a Japanese learning app<br>🌱 I’m currently learning AI and LLM<br>
-
+ 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ThangTT.Cahoii/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/th%E1%BA%AFng-t%C4%83ng-7b116b363/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tangth023@gmail.com) 
 
