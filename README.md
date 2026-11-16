@@ -1,99 +1,194 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:1D4ED8,100:06B6D4&height=220&section=header&text=THANG%20TANG&fontSize=56&fontColor=FFFFFF&fontAlignY=35&desc=Applied%20AI%20%7C%20Machine%20Learning%20%7C%20Software%20Engineering&descAlignY=56&descSize=17&animation=fadeIn" width="100%" alt="Thang Tang — Applied AI and Software Engineering" />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Turning+data+into+useful+products;Building+with+AI%2C+code%2C+and+curiosity;Exploring+Recommender+Systems+%26+ML+Engineering" alt="Animated introduction" />
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=Cahoii&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:052E16,50:166534,100:22C55E&height=210&section=header&text=THANG%20TANG&fontSize=56&fontColor=FFFFFF&fontAlignY=36&desc=APPLIED%20AI%20%7C%20MACHINE%20LEARNING%20%7C%20SOFTWARE%20ENGINEERING&descSize=13&descAlignY=57&animation=fadeIn" width="100%" alt="Thang Tang profile banner" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=750&lines=Building+intelligent+systems;Exploring+Machine+Learning+%26+AI;Turning+ideas+into+real-world+products" alt="Typing introduction" />
+
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=Cahoii&style=flat-square&color=166534&label=PROFILE+VIEWS" alt="Profile views"/>
+
 </div>
 
-<h2 align="center">Hi, I'm Thang 👋</h2>
+<h2 align="center">Hey, I'm Thang 👋</h2>
 
 <p align="center">
-  <b>Artificial Intelligence student at FPT University, Hanoi</b><br />
-  I enjoy turning ideas, data, and experiments into useful software.<br />
-  My interests are at the intersection of <b>Applied AI</b>, <b>Machine Learning</b>, and <b>Backend / Product Engineering</b>.
+  <b>Artificial Intelligence Student @ FPT University, Hanoi</b>
+  <br/>
+  Passionate about Applied AI, Machine Learning, and Software Engineering.
+  <br/>
+  I enjoy learning by building and transforming technical ideas into practical products.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/th%E1%BA%AFng-t%C4%83ng-7b116b363/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:tangth023@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.facebook.com/ThangTT.Cahoii/"><img src="https://img.shields.io/badge/Facebook-Follow-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="mailto:tangth023@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-166534?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/ThangTT.Cahoii/">
+    <img src="https://img.shields.io/badge/Facebook-Connect-166534?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Cahoii">
+    <img src="https://img.shields.io/badge/GitHub-Follow-166534?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
----
+## 01. ABOUT ME
 
-## 🧭 A little about me
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-- 🎓 **Education:** Artificial Intelligence, FPT University — 2024–2028.
-- 🤖 **AI interests:** Machine Learning, Deep Learning, Representation Learning, and Recommender Systems.
-- 🧩 **Engineering interests:** APIs, databases, backend systems, and turning prototypes into usable products.
-- 🌱 **Currently exploring:** Two-Tower recommendation models, sequential recommendation, and Java / Spring Boot.
-- 💬 **I enjoy:** Learning by building, documenting what I learn, and collaborating on meaningful projects.
+👨‍💻 Who I Am
 
-## 🚀 Featured projects
+🎓 AI Student at FPT University.
 
-| Project | What it does |
-| --- | --- |
-| **[Tĩnh Khởi](https://tinhkhoi.online)** | A personalized scented-candle e-commerce experience, combining product customization, interactive storytelling, and an online shopping journey. |
-| **[Face Detection & Recognition](https://github.com/Cahoii/face-detection)** | Real-time face detection and recognition using OpenCV YuNet and SFace, ONNX models, face tracking, and OpenCL acceleration. |
-| **[Used Car Price Prediction](https://github.com/Cahoii/AIL303m_Finnal_Project)** | An end-to-end CRISP-DM machine learning project on 558K+ records. The project README reports R² = 0.9744, MAE = $880.55, and RMSE = $1,365.66. |
-| **[Link2QR AI](https://github.com/Cahoii/link2qr-ai)** | A web app that creates QR codes from URLs and integrates Gemini AI for related content suggestions, built with React, TypeScript, and Vite. |
+🤖 Interested in intelligent systems and machine learning.
 
-## 🧠 What I'm exploring
+🧠 Exploring representation learning and recommender systems.
 
-- **Recommender Systems:** Two-Tower retrieval, tag-aware item representations, and sequential recommendation.
-- **Representation Learning:** Embeddings, feature fusion, and learning useful user / item representations.
-- **Applied Machine Learning:** Data preparation, feature engineering, model evaluation, and reproducible experiments.
-- **Software Engineering:** Clean APIs, database design, and reliable deployment workflows.
+🛠️ Enjoy building full-stack applications and AI-powered products.
 
-## 🛠️ Tools & technologies
+🌱 Continuously learning, experimenting, and improving.
 
-**AI & Data**
+</td>
+<td width="45%" valign="top">
+
+🎯 Current Focus
+
+Machine Learning
+
+Deep Learning
+
+Recommender Systems
+
+Backend Engineering
+
+System Design
+
+Applied AI
+
+</td>
+</tr>
+</table>
+
+## 02. WHAT I'M BUILDING
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3>🕯️ Tĩnh Khởi</h3>
+
+<a href="https://tinhkhoi.online">
+  <img src="https://img.shields.io/badge/Visit-Website-166534?style=flat-square&logo=googlechrome&logoColor=white"/>
+</a>
+
+A personalized scented-candle e-commerce experience combining digital storytelling, product customization, and modern web technologies.
+
+Focus: Product Engineering · Next.js · Supabase
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🧠 Recommender Systems</h3>
+
+A deep learning recommendation system exploring Two-Tower architecture, tag-aware item representations, and sequential recommendation.
+
+Focus: PyTorch · Embeddings · Transformers · KuaiRec 2.0
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>👁️ Face Recognition</h3>
+
+<a href="https://github.com/Cahoii/face-detection">
+  <img src="https://img.shields.io/badge/View-Repository-166534?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+Real-time face detection and recognition using YuNet, SFace, ONNX, and OpenCL acceleration.
+
+Focus: Computer Vision · OpenCV · Python
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🔗 Link2QR AI</h3>
+
+<a href="https://github.com/Cahoii/link2qr-ai">
+  <img src="https://img.shields.io/badge/View-Repository-166534?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+A web application for generating QR codes from URLs with Gemini AI integration.
+
+Focus: React · TypeScript · Vite · Gemini API
+
+</td>
+</tr>
+</table>
+
+## 03. TECHNOLOGY STACK
+
+Artificial Intelligence & Data
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Python-166534?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-166534?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-166534?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-166534?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-166534?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-166534?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
-**Web & Backend**
+Web Development
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-166534?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-166534?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-166534?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-166534?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-166534?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-166534?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-**Database, Cloud & Tools**
+Database & Infrastructure
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=222222" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=222222" alt="Linux" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/MySQL-166534?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-166534?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-166534?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-166534?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-166534?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-166534?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
-## 📊 GitHub at a glance
+## 04. CONTRIBUTION
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cahoii&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cahoii&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=Cahoii&hide_border=true&theme=transparent" alt="GitHub streak" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cahoii/Cahoii/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cahoii/Cahoii/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation eating GitHub contributions" src="https://raw.githubusercontent.com/Cahoii/Cahoii/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+
+  <br/>
+
 </div>
 
----
+## 05. LET'S CONNECT
+
+<p align="center">   I'm always interested in learning, building meaningful projects, and connecting with people who share similar interests.   <br/><br/>   <a href="mailto:tangth023@gmail.com">     <img src="https://img.shields.io/badge/Let's%20Talk-Email-166534?style=for-the-badge&logo=gmail&logoColor=white"/>   </a>   <a href="https://github.com/Cahoii">     <img src="https://img.shields.io/badge/Explore%20My%20Work-GitHub-166534?style=for-the-badge&logo=github&logoColor=white"/>   </a> </p>
 
 <div align="center">
-  <i>“Build with curiosity. Ship with purpose.”</i>
-  <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=110&section=footer" width="100%" alt="Footer" />
+
+  <br/>
+
+<i>"Build with curiosity. Engineer with purpose."</i>
+
+<br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:166534,100:052E16&height=110&section=footer" width="100%" alt="Green footer"/>
+
 </div>
